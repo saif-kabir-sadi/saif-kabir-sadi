@@ -123,9 +123,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saif-kabir-sadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saif-kabir-sadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-kabir-sadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-kabir-sadi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
