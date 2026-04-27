@@ -77,7 +77,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
   </td>
 </tr>
-
+<tr>
+  <th align="left">📊 Data Science Libraries</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  </td>
+</tr>
 <tr>
   <th align="left">🎨 Design</th>
   <td>
