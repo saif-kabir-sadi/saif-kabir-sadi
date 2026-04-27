@@ -14,7 +14,27 @@
 📊 Exploring concepts like Data Mining, Machine Learning & Algorithms<br>
 
 ## Contact Me
-<p><a href="https://bd.linkedin.com/in/saif-kabir-sadi-550949218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="www.sksadi.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p>
+  <a href="https://bd.linkedin.com/in/saif-kabir-sadi-550949218" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.sksadi.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website">
+  </a>
+
+  <a href="https://www.facebook.com/s.k.sadi0x/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://www.instagram.com/s_k_sadi?igsh=dWtodnNoMmpsNWw0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://wa.me/qr/BENMSLFJILIOA1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ## Skills
 
