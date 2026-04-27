@@ -36,70 +36,102 @@
   </a>
 </p>
 
-## Skills
+<h2 align="center">🧑‍💻 Tech Stack</h2>
 
-<h2>🧑‍💻 Tech Stack</h2>
+<div align="center">
 
-<h3>💻 Languages</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<table width="80%" cellspacing="10">
+
+<tr>
+  <th align="left">💻 Languages</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">⚙️ Frameworks</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">🗄️ Database</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">🌐 CMS</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">🎨 Design</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">🚀 Deployment</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">⚡ Version Control</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </td>
+</tr>
+
+<tr>
+  <th align="left">🛠️ Tools</th>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+  </td>
+</tr>
+
+</table>
+
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saif-kabir-sadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-kabir-sadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 </p>
 
-<h3>⚙️ Frameworks & Libraries</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif-kabir-sadi&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
+<h2 align="center">📈 Activity Graph</h2>
 
-
-<h3>🗄️ Database</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saif-kabir-sadi&radius=16&theme=react&area=true&order=5"
+    width="100%"
+    height="300"
+    alt="activity-graph"
+  />
 </p>
-
-<h3>🌐 CMS</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
-</p>
-
-<h3>🎨 Design Tools</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
-</p>
-
-<h3>🚀 Hosting & Deployment</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
-</p>
-
-
-<h3>⚡ Version Control</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-<h3>🛠️ Tools</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
-</p>
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-kabir-sadi&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saif-kabir-sadi&theme=dark" alt="GitHub Streak" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saif-kabir-sadi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
