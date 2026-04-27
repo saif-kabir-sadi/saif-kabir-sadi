@@ -58,10 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 </p>
 
-<h3>🔌 Backend</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> Spring Boot • REST API • Authentication
-</p>
+
 
 <h3>🗄️ Database</h3>
 <p>
