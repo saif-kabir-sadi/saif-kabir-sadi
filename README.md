@@ -10,7 +10,7 @@
  <h3>🚀About Me:</h3>
 🌱 Currently learning and improving my skills in web development & data-related topics<br>
 💡 I like working on projects that solve everyday problems<br>
-🔧 Proficient in PHP, MySQL, HTML, CSS, JavaScript, and WordPress development (Elementor specialist)<br>
+🔧 Proficient in PHP,JAVA, MySQL, HTML, CSS, JavaScript, and WordPress development (Elementor specialist)<br>
 📊 Exploring concepts like Data Mining, Machine Learning & Algorithms<br>
 
 ## Contact Me
